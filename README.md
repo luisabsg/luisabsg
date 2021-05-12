@@ -1,9 +1,9 @@
 <h1> 
   Hi, I'm Luísa 👋🏻 </h1> 
  
-<a href="http://instagram.com/areadatecnologia"> <img height="40" src="https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png" alt="Instagram"/>
-<a href="https://www.youtube.com/channel/UCn2idvq3NAtqsCYSLli9DNQ"> <img height="40" src="https://i.pinimg.com/originals/6c/df/0f/6cdf0f336652ec166d79ab0a1929c4e6.png" alt="Youtube"/>
- 
+<a href="http://instagram.com/areadatecnologia"> <img height="40" src="https://www.pngkey.com/png/full/5-58783_instagram-logo-black-circle-facebook-twitter-instagram-logo.png" alt="Instagram"/>
+<a href="https://www.youtube.com/channel/UCn2idvq3NAtqsCYSLli9DNQ"> <img height="40" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/youtube_black_logo_icon_147044.png" alt="Youtube"/>
+
 
 - 👩🏼‍💻 Dev. Front-End 
 - ⚙️ I’m currently study Systems Engineering
